@@ -1,0 +1,8 @@
+[INFO ] 2023-07-12 00:01:25.003 [main] Logs - Test started successfully
+[INFO ] 2023-07-12 00:01:41.168 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-07-12 00:01:42.330 [pool-2-thread-1] Logs - driver value: FirefoxDriver: firefox on windows (a67c360a-b6a6-4761-b598-e57e38d7d320)
+[INFO ] 2023-07-12 00:01:53.622 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-07-12 00:01:53.816 [pool-2-thread-1] Logs - driver value: FirefoxDriver: firefox on windows (172c6c75-00e9-46eb-93a0-3511fea92add)
+[INFO ] 2023-07-12 00:02:04.282 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-07-12 00:02:04.737 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-07-12 00:02:07.769 [main] Logs - Test finished successfully

@@ -1,0 +1,177 @@
+[INFO ] 2023-06-26 16:42:11.564 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 16:42:16.904 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 16:42:16.904 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 16:42:25.435 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 16:42:25.447 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 16:42:25.451 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:42:25.451 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:42:25.454 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 16:55:17.200 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 16:55:24.378 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 16:55:24.378 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 16:55:32.370 [pool-2-thread-1] Logs - Google
+[INFO ] 2023-06-26 16:55:32.372 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 16:55:32.381 [pool-2-thread-2] Logs - Google
+[INFO ] 2023-06-26 16:55:32.382 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 16:55:32.384 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:55:32.384 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:55:37.324 [pool-2-thread-2] Logs - test3 execution started
+[INFO ] 2023-06-26 16:55:37.367 [pool-2-thread-2] Logs - Test failed 
+[INFO ] 2023-06-26 16:55:37.369 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 16:58:18.366 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 16:58:22.534 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 16:58:22.534 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 16:58:28.569 [pool-2-thread-1] Logs - Google
+[INFO ] 2023-06-26 16:58:28.569 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 16:58:28.576 [pool-2-thread-2] Logs - Google
+[INFO ] 2023-06-26 16:58:28.576 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 16:58:28.582 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:58:28.582 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 16:58:30.698 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 16:58:30.743 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 16:58:30.745 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:01:23.197 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:01:27.864 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:01:27.864 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:01:41.550 [pool-2-thread-2] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:01:41.550 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:01:41.557 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:01:41.558 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:01:41.564 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:01:41.564 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:01:43.612 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 17:01:45.405 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 17:01:45.406 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:04:15.146 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:07:00.314 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:07:00.315 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:10:52.007 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:10:59.868 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:11:03.160 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:11:11.046 [pool-2-thread-2] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:11:11.047 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:11:11.062 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:11:11.062 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:11:11.063 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:11:11.063 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:11:27.068 [pool-2-thread-2] Logs - test3 execution started
+[INFO ] 2023-06-26 17:11:29.435 [pool-2-thread-2] Logs - Test failed 
+[INFO ] 2023-06-26 17:11:29.437 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:21:22.183 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:21:38.024 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:21:38.431 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:21:42.489 [pool-2-thread-1] Logs - Google
+[INFO ] 2023-06-26 17:21:42.489 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:21:42.500 [pool-2-thread-2] Logs - Google
+[INFO ] 2023-06-26 17:21:42.501 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:21:42.531 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:21:42.531 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:21:44.902 [pool-2-thread-2] Logs - test3 execution started
+[INFO ] 2023-06-26 17:21:46.550 [pool-2-thread-2] Logs - Test failed 
+[INFO ] 2023-06-26 17:21:46.551 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:22:55.269 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:22:59.696 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:22:59.711 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:23:03.083 [pool-2-thread-1] Logs - Google
+[INFO ] 2023-06-26 17:23:03.084 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:23:03.098 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:23:03.103 [pool-2-thread-2] Logs - Google
+[INFO ] 2023-06-26 17:23:03.103 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:23:03.103 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:23:05.413 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 17:23:06.949 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 17:23:07.719 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:23:52.551 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:23:56.935 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:23:57.027 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:23:59.859 [pool-2-thread-2] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:23:59.860 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:23:59.865 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:23:59.865 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:23:59.870 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:23:59.870 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:24:02.024 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 17:24:03.271 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 17:24:04.013 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:25:32.779 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:25:36.857 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:25:36.872 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:25:41.288 [pool-2-thread-1] Logs - Google
+[INFO ] 2023-06-26 17:25:41.288 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:25:41.296 [pool-2-thread-2] Logs - Google
+[INFO ] 2023-06-26 17:25:41.296 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:25:41.302 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:25:41.302 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:25:43.406 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 17:25:44.835 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 17:25:45.708 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:45:59.391 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:45:59.425 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:47:00.712 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:47:00.730 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:47:36.967 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:47:36.983 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:48:11.656 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:48:11.674 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 17:48:29.845 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 17:48:37.280 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-26 17:48:37.282 [pool-2-thread-2] Logs - test2 execution started
+[INFO ] 2023-06-26 17:48:44.020 [pool-2-thread-2] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:48:44.020 [pool-2-thread-2] Logs - test2 execution completed
+[INFO ] 2023-06-26 17:48:44.027 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-26 17:48:44.028 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-26 17:48:44.034 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:48:44.034 [pool-2-thread-2] Logs - Test ran successfully
+[INFO ] 2023-06-26 17:48:50.689 [pool-2-thread-1] Logs - test3 execution started
+[INFO ] 2023-06-26 17:48:52.691 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 17:48:53.624 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:08:21.671 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:08:27.017 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:08:27.429 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:08:28.381 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:09:40.295 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:09:44.061 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:09:44.376 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:09:45.139 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:11:11.288 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:11:14.882 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:11:15.283 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:11:16.204 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:11:47.928 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:13:06.193 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:13:07.069 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:14:05.090 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:14:09.340 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:14:10.094 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-26 18:14:10.928 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:14:52.001 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:14:56.586 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:14:57.271 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:14:58.073 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 18:49:20.416 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 18:49:42.608 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:49:56.333 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:50:24.003 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 18:50:25.529 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-26 18:50:28.616 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 19:55:45.602 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 19:56:01.217 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 19:56:10.126 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 19:57:50.521 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 19:57:57.873 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 19:57:59.603 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 20:05:39.193 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:05:46.349 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 20:05:47.860 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 20:07:14.248 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:08:22.972 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:08:29.383 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 20:08:31.100 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 20:10:07.994 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:12:03.436 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 20:14:07.803 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:14:13.102 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 20:14:14.707 [main] Logs - Test finished successfully
+[INFO ] 2023-06-26 20:14:30.550 [main] Logs - Test started successfully
+[INFO ] 2023-06-26 20:14:35.057 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-26 20:14:36.667 [main] Logs - Test finished successfully

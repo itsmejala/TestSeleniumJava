@@ -1,0 +1,44 @@
+[INFO ] 2023-06-30 09:23:04.842 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 09:23:18.511 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:23:19.936 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (0cf6603e7f38f27049cdafea96d44a4d)
+[INFO ] 2023-06-30 09:23:28.239 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:23:29.100 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (a23ee99107048b8749994a8f8a7f6472)
+[INFO ] 2023-06-30 09:23:36.814 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:23:37.943 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-30 09:23:38.847 [main] Logs - Test finished successfully
+[INFO ] 2023-06-30 09:24:24.653 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 09:24:39.463 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:24:40.745 [pool-2-thread-1] Logs - driver value: FirefoxDriver: firefox on windows (5fbed502-8c4b-4683-a2d2-d424e5ec5688)
+[INFO ] 2023-06-30 09:24:54.993 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:24:55.912 [pool-2-thread-1] Logs - driver value: FirefoxDriver: firefox on windows (2b288caf-1ab3-4b38-8d02-4f226adf8b82)
+[INFO ] 2023-06-30 09:25:09.447 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 09:25:10.477 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-30 09:25:14.149 [main] Logs - Test finished successfully
+[INFO ] 2023-06-30 11:28:08.189 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 11:29:15.433 [pool-2-thread-2] Logs - testLogin started execution
+[INFO ] 2023-06-30 11:29:15.435 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-30 11:30:18.171 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-30 11:30:18.173 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-30 11:30:18.196 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-30 11:30:48.247 [pool-2-thread-2] Logs - driver value: FirefoxDriver: firefox on windows (722b45c5-f1f6-4801-965d-5630bab8b9d3)
+[INFO ] 2023-06-30 11:30:53.649 [main] Logs - Test finished successfully
+[INFO ] 2023-06-30 14:18:47.781 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 14:19:02.004 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-30 14:19:02.544 [pool-2-thread-2] Logs - testLogin started execution
+[INFO ] 2023-06-30 14:19:36.261 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-30 14:19:36.261 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-30 14:19:36.275 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-30 14:20:06.318 [pool-2-thread-2] Logs - driver value: FirefoxDriver: firefox on windows (05f488ff-6f36-4ed9-999d-f947b105a3dd)
+[INFO ] 2023-06-30 14:20:12.290 [main] Logs - Test finished successfully
+[INFO ] 2023-06-30 14:21:13.643 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 14:22:23.669 [pool-2-thread-1] Logs - test1 execution started
+[INFO ] 2023-06-30 14:22:23.687 [pool-2-thread-2] Logs - testLogin started execution
+[INFO ] 2023-06-30 14:22:59.649 [pool-2-thread-1] Logs - Maven Repository: Search/Browse/Explore
+[INFO ] 2023-06-30 14:22:59.651 [pool-2-thread-1] Logs - test1 execution completed
+[INFO ] 2023-06-30 14:22:59.738 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-30 14:23:29.909 [pool-2-thread-2] Logs - driver value: FirefoxDriver: firefox on windows (7378a535-5e2a-4e9f-99f6-3ea9154e8400)
+[INFO ] 2023-06-30 14:23:41.703 [main] Logs - Test finished successfully
+[INFO ] 2023-06-30 14:25:38.849 [main] Logs - Test started successfully
+[INFO ] 2023-06-30 14:25:49.828 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-30 14:26:21.152 [pool-2-thread-1] Logs - Test ran successfully
+[INFO ] 2023-06-30 14:26:23.368 [main] Logs - Test finished successfully

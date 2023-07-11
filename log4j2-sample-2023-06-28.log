@@ -1,0 +1,20 @@
+[INFO ] 2023-06-28 12:43:46.896 [main] Logs - Test started successfully
+[INFO ] 2023-06-28 12:43:54.355 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:43:55.075 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (cb5eebb32fc4bb9308c48b8a4477ffde)
+[INFO ] 2023-06-28 12:43:55.395 [main] Logs - Test finished successfully
+[INFO ] 2023-06-28 12:47:09.930 [main] Logs - Test started successfully
+[INFO ] 2023-06-28 12:47:13.344 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:47:13.888 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (08c817cf8084441d4d170c2ab8409ba3)
+[INFO ] 2023-06-28 12:47:16.370 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:47:16.695 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (405ac991758dc7cc1aa918d2dcf560b8)
+[INFO ] 2023-06-28 12:47:19.502 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:47:20.072 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-28 12:47:20.199 [main] Logs - Test finished successfully
+[INFO ] 2023-06-28 12:50:03.547 [main] Logs - Test started successfully
+[INFO ] 2023-06-28 12:50:07.423 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:50:08.018 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (64aa44d938c0fb00f37fbdc1e5ae2c32)
+[INFO ] 2023-06-28 12:50:12.006 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:50:12.473 [pool-2-thread-1] Logs - driver value: ChromeDriver: chrome on windows (29bc7b3e183b1dc6a9f502720bb16c63)
+[INFO ] 2023-06-28 12:50:16.901 [pool-2-thread-1] Logs - testLogin started execution
+[INFO ] 2023-06-28 12:50:17.593 [pool-2-thread-1] Logs - Test failed 
+[INFO ] 2023-06-28 12:50:17.783 [main] Logs - Test finished successfully
